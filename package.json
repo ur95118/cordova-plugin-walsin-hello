@@ -1,0 +1,27 @@
+{
+  "name": "com.walsin.cordova.plugin.demo",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.walsin.cordova.plugin.demo",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ur95118/cordova-plugin-walsin-hello.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ur95118/cordova-plugin-walsin-hello/issues"
+  },
+  "homepage": "https://github.com/ur95118/cordova-plugin-walsin-hello#readme"
+}
